@@ -1,0 +1,49 @@
+.gradient-css {
+	/* #265073, #2D9596, #9AD0C2, #ECF4D6 */
+	background-color: #ECF4D6;
+}
+  .font-color
+  {
+    color: #2D9596;
+  }
+.cursive-font
+{ font-family: 'Caveat', cursive;
+font-family: 'Cedarville Cursive', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Montserrat', sans-serif;
+}
+.serif-font
+{
+    font-family: 'PT Serif', serif;
+}
+
+.circle
+{
+    border-radius: 50%;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+.sub-color
+{
+    color: #9AD0C2
+}
+/* /////////////////////////////////////////////////////////// */
+
+.animation{
+   
+    font-size: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  .pancakes-text {
+    font-family: Satisfy, cursive;
+    font-size: 5em;
+    color: #9AD0C2;
+    text-shadow: 0.02em 0.02em 0 white;
+  }
